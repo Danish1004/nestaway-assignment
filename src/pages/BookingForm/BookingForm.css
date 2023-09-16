@@ -1,0 +1,41 @@
+.booking-form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid grey;
+  margin: auto;
+  margin-top: 5rem;
+  border-radius: 15px;
+  width: 50%;
+  height: 30rem;
+  justify-content: center;
+}
+
+.book-form {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  gap: 1rem;
+  height: auto;
+  align-items: center;
+}
+
+.form-btn {
+  width: 30%;
+  height: 3rem;
+  cursor: pointer;
+  text-decoration: none;
+  border: 1px solid #003049;
+  border-radius: 10px;
+  background-color: #003049;
+  color: white;
+  text-transform: uppercase;
+}
+.inpt-details {
+  height: 2rem;
+  border-radius: 10px;
+  border: 1px solid grey;
+  width: 100%;
+  padding-left: 10px;
+}
